@@ -2,7 +2,7 @@
 Commandes exploitation Oracle
 
 ### Création de base :
-  > createdatabase.md
+  > [createdatabase.md](https://github.com/Eninox/oracle_tips/blob/main/createdatabase.md)
 * Paramètres initiaux
 * Paramètres d'initialisation
 * Gestion datafiles
