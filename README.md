@@ -1,2 +1,12 @@
 # oracle_tips
-Commandes de base exploitation Oracle
+Commandes exploitation Oracle
+
+### Création de base :
+  > createdatabase.md
+* Paramètres initiaux
+* Paramètres d'initialisation
+* Gestion datafiles
+* Gestion controlfile
+* Gestion journaux (redologs)
+* Tnsname et listener
+* Oratab
